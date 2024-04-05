@@ -9,11 +9,11 @@ This project is an attendance system that utilizes a webcam to detect and recogn
 
 ## Screenshots
 ##### i. Attendence window
-![1  Attendence](Screenshots\krish_sir.png)
-(Screenshots\darshan_sir.png)
+![1  Attendence](https://github.com/anoopgupta112/Attendence_System/blob/master/Screenshots/krish_sir.png)
+(![Screenshots\darshan_sir.png](https://github.com/anoopgupta112/Attendence_System/blob/master/Screenshots/darshan_sir.png))
 
 #### ii. CSV File
-![2  CSV file](Screenshots\csv_file.png)
+![2  CSV file](https://github.com/anoopgupta112/Attendence_System/blob/master/Screenshots/csv_file.png)
 
 
 ## Getting Started
