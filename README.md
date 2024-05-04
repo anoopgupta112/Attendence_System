@@ -6,7 +6,7 @@ This project is an attendance system that utilizes a webcam to detect and recogn
 - **Face Recognition**: For face detection and recognition
 - **Pickle**: For storing and retrieving face data
 - **Streamlit**: For creating a user-friendly web interface
-
+#### Project Overview Video: https://www.linkedin.com/posts/ac-gupta-dev_computervision-facialrecognition-attendancesystem-activity-7182259366824230912-WkTV?utm_source=share&utm_medium=member_desktop
 ## Screenshots
 ##### i. Attendence window
 ![1  Attendence](https://github.com/anoopgupta112/Attendence_System/blob/master/Screenshots/krish_sir.png)
